@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+
+-   family-names: "Walter"
+    given-names: "David"
+    orcid: "https://orcid.org/0000-0001-6807-5007"
+    affiliation: "Max Planck Digital Library & Max Planck Institute for
+    Chemistry"
+-   family-names: "Franke"
+    given-names: "Michael"
+    orcid: "https://orcid.org/0000-0002-2661-8242"
+    affiliation: "Max Planck Digital Library"
+-   family-names: "Bahamón Jiménez"
+    given-names: "Laura"
+    orcid: "https://orcid.org/0009-0003-9330-9292"
+    affiliation: "Max Planck Digital Library"
+
+title: "Weather Analyser"
+version: {here comes the software version}
+doi: 10.5281/zenodo.1234
+date-released: 2027-04-30
