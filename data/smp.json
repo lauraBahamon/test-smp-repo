@@ -365,11 +365,6 @@
     "values": "No"
   },
   {
-    "question": "Unter welche Art von Lizenz(en) wird die Software fallen?",
-    "set": "",
-    "values": "MIT"
-  },
-  {
     "question": "Kann die Software auch f\u00fcr milit\u00e4rische Zwecke genutzt werden?",
     "set": "",
     "values": "No"
