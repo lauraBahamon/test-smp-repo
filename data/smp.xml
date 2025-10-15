@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-10-15T13:51:21.658440+02:00" required="2.1.0" version="2.3.2">
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-10-15T14:15:19.424192+02:00" required="2.1.0" version="2.3.2">
 	<title>Weather Analyser</title>
 	<description/>
 	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
@@ -22,6 +22,51 @@
 		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
 	</views>
 	<values>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/csvcomma"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>2d71effb01914d34600d68c40bd2e871e0572b4b</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-10-15T14:15:11.139176+02:00</created>
+			<updated>2025-10-15T14:15:11.139185+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/csvsemicolon"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>b7e0b687a32f7c52f9ad915ebd99c882d7d03193</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-10-15T14:15:11.506040+02:00</created>
+			<updated>2025-10-15T14:15:11.506049+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/json"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>239b85fa36b769a91c773e78ccadfbc2d2cded46</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-10-15T14:15:11.814289+02:00</created>
+			<updated>2025-10-15T14:15:11.814297+02:00</updated>
+		</value>
 		<value>
 			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation"/>
 			<set_prefix>0</set_prefix>
@@ -959,21 +1004,6 @@ Open source: Git versioning, and GitHub</text>
 			<updated>2025-10-15T11:29:29.974246+02:00</updated>
 		</value>
 		<value>
-			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-license"/>
-			<set_prefix/>
-			<set_index>0</set_index>
-			<set_collection>False</set_collection>
-			<collection_index>6</collection_index>
-			<text/>
-			<option dc:uri="https://rdmorganiser.github.io/terms/options/software-license/MIT"/>
-			<file/>
-			<value_type>text</value_type>
-			<unit/>
-			<external_id/>
-			<created>2025-10-15T13:50:44.967889+02:00</created>
-			<updated>2025-10-15T13:50:44.967900+02:00</updated>
-		</value>
-		<value>
 			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-metadata"/>
 			<set_prefix/>
 			<set_index>0</set_index>
@@ -1260,5 +1290,5 @@ Open source: Git versioning, and GitHub</text>
 		</value>
 	</values>
 	<created>2025-02-07T13:57:46.861500+01:00</created>
-	<updated>2025-10-15T13:50:45.583017+02:00</updated>
+	<updated>2025-10-15T13:51:46.554857+02:00</updated>
 </project>
