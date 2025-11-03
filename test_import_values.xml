@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-06-23T11:47:53.205705+02:00" required="2.1.0" version="2.3.1">
+	<title/>
+	<description/>
+	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
+	<tasks/>
+	<views/>
+	<values>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-license"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>6</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/software-license/MIT"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:28:06.494486+01:00</created>
+			<updated>2025-05-09T09:35:02.677484+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/third-party-licenses"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>MIT</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:40:02.159601+01:00</created>
+			<updated>2025-05-09T09:35:02.697432+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/track-tasks"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>OpenProject</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:32:30.649105+01:00</created>
+			<updated>2025-05-09T09:35:02.700412+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/track-tasks"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>1</collection_index>
+			<text>GitHub</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:32:30.645116+01:00</created>
+			<updated>2025-05-09T09:35:02.701804+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/versioning"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Git</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:35:29.223024+01:00</created>
+			<updated>2025-02-14T08:55:29.165011+01:00</updated>
+		</value>
+	</values>
+	<created>2025-11-03T13:57:46.861500+01:00</created>
+</project>
