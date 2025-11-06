@@ -17,6 +17,15 @@ authors:
   affiliation: "Max Planck Digital Library"
 
 title: "Weather Analyser"
-version: {here comes the software version}
-doi: 10.5281/zenodo.1234
+type: software
+identifiers:
+
+- type: other
+  value: bla
+
+license:
+
+- AGPL-3.0-only
+- Apache-2.0
+
 date-released: 2027-04-30
