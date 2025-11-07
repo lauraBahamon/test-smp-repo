@@ -19,6 +19,12 @@ title: "Weather Analyser"
 type: software
 doi: 10.9781/zenodo.1003166
 url: https://github.com/lauraBahamon/test-smp-repo
+identifiers:
+- type: doi
+  value: 10.5281/zenodo.1003149
+  description: "The concept DOI of the work."
+- type: other
+  value: bla
 license:
 - AGPL-3.0-only
 - Apache-2.0
