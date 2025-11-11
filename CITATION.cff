@@ -15,7 +15,7 @@ authors:
   given-names: "Laura"
   orcid: "https://orcid.org/0009-0003-9330-9292"
   affiliation: "Max Planck Digital Library"
-title: "Weather Analyser"
+title: "Weather Analyser (from CITATION.cff)"
 type: software
 doi: 10.9781/zenodo.1003166
 url: https://github.com/lauraBahamon/test-smp-repo
