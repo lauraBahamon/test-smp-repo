@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-11-17T12:28:06.995069+01:00" required="2.1.0" version="2.3.2">
+	<title>Test-Partners</title>
+	<description/>
+	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
+	<tasks>
+		<task dc:uri="https://rdmo.mpdl.mpg.de/terms/tasks/determine_smp_versioning_tool"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/clarify_consequences_international_law"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/contact_data_security_officer"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/contact_IT_department"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/contact_IT_or_data_management_expert"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/contact_rights_owner"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/create_data_organisation_policy"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/create_naming_policy"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/determine_versioning_tool"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/finish-first-dmp"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/identify_rights_owner"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/inform_data_security_officer"/>
+	</tasks>
+	<views>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-citation"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-readme"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-report"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
+	</views>
+	<values>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation"/>
+			<set_prefix>0</set_prefix>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>affiliation-1</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:26:51.491340+01:00</created>
+			<updated>2025-11-17T12:26:52.417120+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation"/>
+			<set_prefix>1</set_prefix>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Charité - Universitätsmedizin Berlin</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:27:29.741851+01:00</created>
+			<updated>2025-11-17T12:27:29.741859+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation/ror-autocomplete"/>
+			<set_prefix>1</set_prefix>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Charité - Universitätsmedizin Berlin [001w7jn25]</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id>001w7jn25</external_id>
+			<created>2025-11-17T12:27:29.530322+01:00</created>
+			<updated>2025-11-17T12:27:29.530332+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation/ror-id"/>
+			<set_prefix>0</set_prefix>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>ror-1</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:26:55.152371+01:00</created>
+			<updated>2025-11-17T12:26:56.260782+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation/ror-id"/>
+			<set_prefix>1</set_prefix>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>https://ror.org/001w7jn25</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:27:29.732924+01:00</created>
+			<updated>2025-11-17T12:27:29.732934+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/family-name"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>family-name1</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:26:34.267648+01:00</created>
+			<updated>2025-11-17T12:26:36.583801+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/family-name"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Drosten</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:27:16.216653+01:00</created>
+			<updated>2025-11-17T12:27:16.216660+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/given-name"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>given-name1</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:26:39.357396+01:00</created>
+			<updated>2025-11-17T12:26:41.700046+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/given-name"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Christian</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:27:16.209458+01:00</created>
+			<updated>2025-11-17T12:27:16.209465+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/orcid-autocomplete"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Christian Drosten (Charité Universitätsmedizin Berlin) [0000-0001-7923-0519]</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id>0000-0001-7923-0519</external_id>
+			<created>2025-11-17T12:27:15.537192+01:00</created>
+			<updated>2025-11-17T12:27:15.537201+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/orcid-id"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>orcid-1</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:26:44.212286+01:00</created>
+			<updated>2025-11-17T12:26:45.047341+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/orcid-id"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>https://orcid.org/0000-0001-7923-0519</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:27:16.199519+01:00</created>
+			<updated>2025-11-17T12:27:16.199524+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/role"/>
+			<set_prefix>0</set_prefix>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>role-1</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:26:47.351068+01:00</created>
+			<updated>2025-11-17T12:26:48.355707+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/role"/>
+			<set_prefix>1</set_prefix>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Director</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:27:16.226168+01:00</created>
+			<updated>2025-11-17T12:27:16.226174+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/partner/id"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>partner-1</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:26:23.742595+01:00</created>
+			<updated>2025-11-17T12:26:23.742603+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/partner/id"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>partner-2</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:27:05.223447+01:00</created>
+			<updated>2025-11-17T12:27:05.223469+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_field"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/research_fields/169"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:25:52.877482+01:00</created>
+			<updated>2025-11-17T12:25:52.877488+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_question/title"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>bla intended use</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:25:57.628236+01:00</created>
+			<updated>2025-11-17T12:26:05.146587+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/title"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>bla title</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:25:51.195789+01:00</created>
+			<updated>2025-11-17T12:25:51.195796+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/application-class"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/application-class/3"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:25:52.622006+01:00</created>
+			<updated>2025-11-17T12:25:52.622012+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/buy-or-make"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>bla novelty</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-11-17T12:26:08.798521+01:00</created>
+			<updated>2025-11-17T12:26:13.302603+01:00</updated>
+		</value>
+	</values>
+	<created>2025-11-17T12:25:35.405940+01:00</created>
+	<updated>2025-11-17T12:27:30.252058+01:00</updated>
+</project>
