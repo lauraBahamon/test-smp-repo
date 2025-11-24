@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "test-smp-repo"
+version = "1.0.0"
+description = "bla bla"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    'Operating System :: OS Independent',
+    "Programming Language :: Python :: 3 :: Only",
+    'Programming Language :: Python :: 3.8',
+    'Programming Language :: Python :: 3.9',
+    'Programming Language :: Python :: 3.10',
+    'Programming Language :: Python :: 3.11',
+    'Programming Language :: Python :: 3.12',
+]
+dependencies = [
+    "requests>=2.31",
+    "rdmo==2.3.2"
+]
+
+[project.urls]
+repository = "https://github.com/lauraBahamon/test-smp-repo.git"
+
+[project.scripts]
+bla = "src/bla_script.py"
