@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-11-17T15:31:04.594489+01:00" required="2.1.0" version="2.3.2">
-	<title>Weather Analyser</title>
+	<title>Weather Analyser (xml Project())</title>
 	<description/>
 	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
 	<tasks>
@@ -542,7 +542,7 @@ Contribution to research: the software simplifies the quality control, and prepa
 			<set_index>0</set_index>
 			<set_collection>False</set_collection>
 			<collection_index>0</collection_index>
-			<text>Weather Analyser</text>
+			<text>Weather Analyser (xml Value())</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
