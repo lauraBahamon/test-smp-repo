@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-11-11T17:04:14.436175+01:00" required="2.1.0" version="2.3.2">
-	<title>Weather Analyser (from bla.xml)</title>
+	<title>Weather Analyser</title>
 	<description/>
 	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
 	<tasks>
@@ -29,7 +29,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Max Planck Digital Library (from bla.xml)</text>
+			<text>Max Planck Digital Library</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -44,7 +44,7 @@
 			<set_index>1</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Max Planck Institute for Chemistry (from bla.xml)</text>
+			<text>Max Planck Institute for Chemistry</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -59,7 +59,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Max Planck Digital Library (from bla.xml)</text>
+			<text>Max Planck Digital Library</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -74,7 +74,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Max Planck Digital Library (from bla.xml)</text>
+			<text>Max Planck Digital Library</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -89,7 +89,7 @@
 			<set_index>1</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Max Planck Institute for Chemistry [02f5b7n18] (from bla.xml)</text>
+			<text>Max Planck Institute for Chemistry [02f5b7n18]</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -104,7 +104,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Max Planck Digital Library [0061msm67] (from bla.xml)</text>
+			<text>Max Planck Digital Library [0061msm67]</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -119,7 +119,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>https://ror.org/0061msm67 (from bla.xml)</text>
+			<text>https://ror.org/0061msm67</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -134,7 +134,7 @@
 			<set_index>1</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>https://ror.org/02f5b7n18 (from bla.xml)</text>
+			<text>https://ror.org/02f5b7n18</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -149,7 +149,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>https://ror.org/0061msm67 (from bla.xml)</text>
+			<text>https://ror.org/0061msm67</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -164,7 +164,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>https://ror.org/0061msm67 (from bla.xml)</text>
+			<text>https://ror.org/0061msm67</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -179,7 +179,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Walter (from bla.xml)</text>
+			<text>Walter</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -194,7 +194,7 @@
 			<set_index>1</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Franke (from bla.xml)</text>
+			<text>Franke</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -209,7 +209,7 @@
 			<set_index>2</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Bahamón Jiménez (from bla.xml)</text>
+			<text>Bahamón Jiménez</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -224,7 +224,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>David (from bla.xml)</text>
+			<text>David</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -239,7 +239,7 @@
 			<set_index>1</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Michael (from bla.xml)</text>
+			<text>Michael</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -254,7 +254,7 @@
 			<set_index>2</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Laura (from bla.xml)</text>
+			<text>Laura</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -269,7 +269,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>(from bla.xml) David Walter (Max Planck Digital Library, Max-Planck-Institut für Biogeochemie, Max-Planck-Institut für Chemie) [0000-0001-6807-5007]</text>
+			<text David Walter (Max Planck Digital Library, Max-Planck-Institut für Biogeochemie, Max-Planck-Institut für Chemie) [0000-0001-6807-5007]</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -284,7 +284,7 @@
 			<set_index>1</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>(from bla.xml) Michael Franke (Max Planck Digital Library) [0000-0002-2661-8242]</text>
+			<text Michael Franke (Max Planck Digital Library) [0000-0002-2661-8242]</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -299,7 +299,7 @@
 			<set_index>2</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>(from bla.xml) Laura Bahamón Jiménez (Max Planck Digital Library) [0009-0003-9330-9292]</text>
+			<text Laura Bahamón Jiménez (Max Planck Digital Library) [0009-0003-9330-9292]</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -359,7 +359,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Research Data Management (from bla.xml)</text>
+			<text>Research Data Management</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -374,7 +374,7 @@
 			<set_index>1</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Data management R/Y Eugen Seibold, PANGAEA data editor (from bla.xml)</text>
+			<text>Data management R/Y Eugen Seibold, PANGAEA data editor</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -389,7 +389,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Full-Stack Developer (from bla.xml)</text>
+			<text>Full-Stack Developer</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -404,7 +404,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>David Walter (from bla.xml)</text>
+			<text>David Walter</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -419,7 +419,7 @@
 			<set_index>1</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Michael Franke (from bla.xml)</text>
+			<text>Michael Franke</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -434,7 +434,7 @@
 			<set_index>2</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>Laura Bahamón (from bla.xml)</text>
+			<text>Laura Bahamón</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
