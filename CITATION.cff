@@ -2,29 +2,29 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
 
-- family-names: "Müller (from CITATION.cff)"
-  given-names: "David (from CITATION.cff)"
+- family-names: "Müller"
+  given-names: "David"
   orcid: "https://orcid.org/0200-0001-8670-7005"
-  affiliation: "Max Planck Digital Library (from CITATION.cff) & Max Planck Institute for
-  Physics (from CITATION.cff)"
-- family-names: "Frank (from CITATION.cff)"
-  given-names: "Martin (from CITATION.cff)"
+  affiliation: "Max Planck Digital Library & Max Planck Institute for
+  Physics"
+- family-names: "Frank"
+  given-names: "Martin"
   orcid: "https://orcid.org/0000-0003-2661-8224"
-  affiliation: "Max Planck Digital Library (from CITATION.cff)"
-- family-names: "Bahamón (from CITATION.cff)"
-  given-names: "Laura (from CITATION.cff)"
+  affiliation: "Max Planck Digital Library"
+- family-names: "Bahamón"
+  given-names: "Laura"
   orcid: "https://orcid.org/0009-0003-9330-9292"
-  affiliation: "Max Planck Digital Library (from CITATION.cff)"
-title: "Weather Analyser (from CITATION.cff)"
+  affiliation: "Max Planck Digital Library"
+title: "Weather Analyser"
 type: software
-doi: 10.9781/zenodo.1003166 (from CITATION.cff)
-url: https://github.com/lauraBahamon/test-smp-repo (from CITATION.cff)
+doi: 10.9781/zenodo.1003166
+url: https://github.com/lauraBahamon/test-smp-repo
 identifiers:
 - type: doi
-  value: 10.5281/zenodo.1003149 (from CITATION.cff)
+  value: 10.5281/zenodo.1003149
   description: "The concept DOI of the work."
 - type: other
-  value: bla (from CITATION.cff)
+  value: bla
 license:
 - AGPL-3.0-only
 - Apache-2.0
