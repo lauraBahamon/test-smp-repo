@@ -314,7 +314,7 @@
 			<set_index>0</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>https://orcid.org/0000-0001-6807-5007 (from bla.xml)</text>
+			<text>https://orcid.org/0000-0001-6807-5007</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -329,7 +329,7 @@
 			<set_index>1</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>https://orcid.org/0000-0002-2661-8242 (from bla.xml)</text>
+			<text>https://orcid.org/0000-0002-2661-8242</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
@@ -344,7 +344,7 @@
 			<set_index>2</set_index>
 			<set_collection>True</set_collection>
 			<collection_index>0</collection_index>
-			<text>https://orcid.org/0009-0003-9330-9292 (from bla.xml)</text>
+			<text>https://orcid.org/0009-0003-9330-9292</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
