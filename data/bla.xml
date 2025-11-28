@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-11-11T17:04:14.436175+01:00" required="2.1.0" version="2.3.2">
-	<title>Weather Analyser</title>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-11-17T15:31:04.594489+01:00" required="2.1.0" version="2.3.2">
+	<title>BLA</title>
 	<description/>
 	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
 	<tasks>
@@ -19,7 +19,6 @@
 	<views>
 		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-citation"/>
 		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-readme"/>
-		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-report"/>
 		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
 	</views>
 	<values>
