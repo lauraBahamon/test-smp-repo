@@ -814,7 +814,22 @@ Open source: Git versioning, and GitHub</text>
 			<set_index>0</set_index>
 			<set_collection>False</set_collection>
 			<collection_index>0</collection_index>
-			<text>Python</text>
+			<text>python</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:35:29.221596+01:00</created>
+			<updated>2025-12-01T09:16:06.263957+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/language"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>1</collection_index>
+			<text>JavaScript</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
