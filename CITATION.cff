@@ -4,6 +4,7 @@ authors:
 
 - family-names: "Müller"
   given-names: "David"
+  name: "My Research Group"
   orcid: "https://orcid.org/0200-0001-8670-7005"
   affiliation: "Max Planck Digital Library & Max Planck Institute for
   Physics"
@@ -15,6 +16,8 @@ authors:
   given-names: "Laura"
   orcid: "https://orcid.org/0009-0003-9330-9292"
   affiliation: "Max Planck Digital Library"
+- name: "My Research Group"
+  orcid: "https://orcid.org/0123-4567-8901-2345"
 title: "Weather Analyser (from cff)"
 type: software
 doi: 10.9781/zenodo.1003166
