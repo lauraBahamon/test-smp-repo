@@ -1,0 +1,37 @@
+
+    {
+        "@context": "https://w3id.org/codemeta/3.0",
+        "name": "Weather Analyser",
+        "@type": "SoftwareSourceCode",
+        "applicationCategory": [
+            "Natural Sciences / Atmospheric Science and Oceanography",
+            "Natural Sciences / Water Research"
+        ],
+        "contributor": [          
+            {
+                "@id": "https://orcid.org/0000-0001-6807-5007",
+                "@type": "Person",
+                "familyName": "Walter",
+                "givenName": "David"
+            },          
+            {
+                "@id": "https://orcid.org/0000-0001-8745-6593",
+                "@type": "Person",
+                "familyName": "Walter",
+                "givenName": "Peter"
+            },
+            {
+                "@type": "Role",
+                "contributor": "https://orcid.org/0000-0001-8745-6593",
+                "roleName": "Director, Chairman"
+            }
+        ],
+        "license": "https://spdx.org/licenses/MIT",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "doi",
+            "value":  "10.5281/zenodo.1234"
+        },
+        "datePublished": "2027-04-30",
+        "programmingLanguage": "Python"
+    }
