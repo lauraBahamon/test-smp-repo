@@ -17,8 +17,13 @@ and prepares them for publication
 
 Contributors:
 
-- David Walter (https://orcid.org/0000-0001-6807-5007)
-- Peter Walter (https://orcid.org/0000-0001-8745-6593), Director,
-  Chairman
+- David Walter (https://orcid.org/0000-0001-6807-5007), Research Data
+  Management at Max Planck Information and Technology & Data management
+  R/Y Eugen Seibold, PANGAEA data editor at Max Planck Institut für
+  Chemie - Otto Hahn Institut
+- Michael Franke (https://orcid.org/0000-0002-2661-8242), Max Planck
+  Information and Technology
+- Laura Bahamón Jiménez (https://orcid.org/0009-0003-9330-9292),
+  Full-Stack Developer at Max Planck Information and Technology
 
 Software license: MIT
