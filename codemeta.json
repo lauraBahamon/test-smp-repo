@@ -1,0 +1,101 @@
+
+    {
+        "@context": "https://w3id.org/codemeta/3.0",
+        "name": "Weather Analyser",
+        "@type": "SoftwareSourceCode",
+        "applicationCategory": [
+            "Natural Sciences / Atmospheric Science and Oceanography",
+            "Natural Sciences / Water Research"
+        ],
+        "contributor": [          
+            {
+                "@id": "https://orcid.org/0000-0001-6807-5007",
+                "@type": "Person",
+                "familyName": "Walter",
+                "givenName": "David",
+                "affiliation": [
+                    { 
+                        "@id": "https://ror.org/009r0wm36",
+                        "@type": "Organization",
+                        "name": "Max Planck Information and Technology"
+                    }, 
+                    { 
+                        "@id": "https://ror.org/02f5b7n18",
+                        "@type": "Organization",
+                        "name": "Max Planck Institut für Chemie - Otto Hahn Institut"
+                    }
+                ]
+            },
+            {
+                "@type": "Role",
+                "contributor": "https://orcid.org/0000-0001-6807-5007",
+                "roleName": "Research Data Management"
+            }, 
+            {
+                "@type": "Role",
+                "contributor": "https://orcid.org/0000-0001-6807-5007",
+                "roleName": "Data management R/Y Eugen Seibold, PANGAEA data editor"
+            },          
+            {
+                "@id": "https://orcid.org/0000-0002-2661-8242",
+                "@type": "Person",
+                "familyName": "Franke",
+                "givenName": "Michael",
+                "affiliation": {
+                    "@id": "https://ror.org/009r0wm36",
+                    "@type": "Organization",
+                    "name": "Max Planck Information and Technology"
+                }
+            },          
+            {
+                "@id": "https://orcid.org/0009-0003-9330-9292",
+                "@type": "Person",
+                "familyName": "Bahamón Jiménez",
+                "givenName": "Laura",
+                "affiliation": {
+                    "@id": "https://ror.org/009r0wm36",
+                    "@type": "Organization",
+                    "name": "Max Planck Information and Technology"
+                }
+            },
+            {
+                "@type": "Role",
+                "contributor": "https://orcid.org/0009-0003-9330-9292",
+                "roleName": "Full-Stack Developer"
+            },          
+            {
+                "@id": "https://orcid.org/0009-0003-9330-9254",
+                "@type": "Person",
+                "familyName": "Bahaman",
+                "givenName": "Nora",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Max Planck Information and Technology"
+                }
+            },          
+            {
+                "@id": "https://orcid.org/0000-0001-9502-1960",
+                "@type": "Person",
+                "familyName": "Trilsbeek",
+                "givenName": "Paul",
+                "affiliation": {
+                    "@id": "https://ror.org/00671me87",
+                    "@type": "Organization",
+                    "name": "Max Planck Institute for Psycholinguistics"
+                }
+            },
+            {
+                "@type": "Role",
+                "contributor": "https://orcid.org/0000-0001-9502-1960",
+                "roleName": "Head The Language Archive"
+            }
+        ],
+        "license": "https://spdx.org/licenses/MIT",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "doi",
+            "value":  "10.5281/zenodo.1234"
+        },
+        "datePublished": "2027-04-30",
+        "programmingLanguage": "Python"
+    }
